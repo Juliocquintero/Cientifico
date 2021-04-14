@@ -2,7 +2,7 @@ const Header = ()=> {
     const view =`
         <div class="header-main">
             <div class="header-logo">
-                <h1><a href="/">
+                <h1><a href="https://juliocquintero.github.io/Cientifico/">
                     100tifi.co
                 </a></h1>
             </div>
