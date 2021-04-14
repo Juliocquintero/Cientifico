@@ -133,7 +133,7 @@ body {
 }
 
 @media (max-width: 480px) {
-	.character {
+	.characters {
 		grid-template-columns: 1fr;
 	}
 
